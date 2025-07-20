@@ -1,12 +1,6 @@
-Here's a professional `README.md` file tailored for your Parkinson's Disease Diagnostic Tool using XGBoost and Streamlit:
-
----
-
 # 🧠 Parkinson's Disease Diagnostic Tool
 
 A machine learning-powered diagnostic tool built using Python, XGBoost, and Streamlit to predict the likelihood of Parkinson's Disease based on medical and lifestyle features.
-
-![Streamlit UI Screenshot](link-to-screenshot-if-available)
 
 ## 🚀 Features
 
@@ -21,10 +15,12 @@ A machine learning-powered diagnostic tool built using Python, XGBoost, and Stre
 ```
 📁 parkinsons-diagnosis-app
 │
-├── app.py                 # Streamlit application
-├── model.pkl              # Trained XGBoost model
-├── requirements.txt       # Python dependencies
-└── README.md              # Project documentation
+├── Detecting_Parkinson's_Building_a_Diagnostic_Tool.ipynb                                 
+├── app.py                                     # Streamlit application
+├── xgboost_parkinsons_model.pkl               # Trained XGBoost model
+├── requirements.txt                           # Python dependencies
+└── README.md                                  # Project documentation
+
 ```
 
 ## 📦 Installation
@@ -100,9 +96,3 @@ This tool is designed to assist medical professionals and researchers in:
 
 **Buthaina Esam**
 *Machine Learning Engineer & AI Enthusiast*
-
-📫 [LinkedIn](https://www.linkedin.com/) • 💻 [Portfolio](https://your-portfolio.com)
-
----
-
-Let me know if you want this in Arabic, or want to include screenshots, licenses, or contributions section.
