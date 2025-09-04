@@ -28,7 +28,7 @@ A machine learning-powered diagnostic tool built using Python, XGBoost, and Stre
 1. **Clone the repository**
 
 ```bash
-git clone https://github.com/your-username/parkinsons-diagnosis-app.git
+git clone https://github.com/buthinaaa/Detecting-Parkinson-s-Building-a-Diagnostic-Tool
 cd parkinsons-diagnosis-app
 ```
 
