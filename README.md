@@ -1,6 +1,7 @@
 # 🧠 Parkinson's Disease Diagnostic Tool
 
 A machine learning-powered diagnostic tool built using Python, XGBoost, and Streamlit to predict the likelihood of Parkinson's Disease based on medical and lifestyle features.
+> 🚀 Try the live demo on [Streamlit](https://buthinaaa-detecting-parkinson-s-building-a-diagnosti-app-yhscvj.streamlit.app/).
 
 ## 🚀 Features
 
